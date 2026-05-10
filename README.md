@@ -1,2 +1,2 @@
-# Simuladores-de-Cons-rcio
+# Simuladores-de-Consorcio
 Simulador App
